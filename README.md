@@ -1,6 +1,6 @@
 # KatasOnbording
 
-Creacion de Katas del Onbording Innovacion LaunchX
+Creacion de Katas del Onbording Innovaccion LaunchX
 
 ## Katas
 
